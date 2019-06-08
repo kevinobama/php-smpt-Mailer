@@ -68,11 +68,11 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="455">
-                <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <first_editor relative-caret-position="432">
+                <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
                 <folding>
-                  <marker date="1559996123592" expanded="true" signature="207:539" ph="..." />
-                  <marker date="1559996123592" expanded="true" signature="362:445" ph="..." />
+                  <marker date="1559996162090" expanded="true" signature="207:539" ph="..." />
+                  <marker date="1559996162090" expanded="true" signature="362:445" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -203,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559992126778</updated>
-      <workItem from="1559992132645" duration="3106000" />
+      <workItem from="1559992132645" duration="3145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3106000" />
+    <option name="totallyTimeSpent" value="3145000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,11 +312,11 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="455">
-            <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <first_editor relative-caret-position="432">
+            <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
             <folding>
-              <marker date="1559996123592" expanded="true" signature="207:539" ph="..." />
-              <marker date="1559996123592" expanded="true" signature="362:445" ph="..." />
+              <marker date="1559996162090" expanded="true" signature="207:539" ph="..." />
+              <marker date="1559996162090" expanded="true" signature="362:445" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
