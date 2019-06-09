@@ -6,6 +6,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/config_smtp.php" afterPath="$PROJECT_DIR$/conf/config_smtp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/sendmail.php" afterPath="$PROJECT_DIR$/examples/sendmail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/sendmailAttachments.php" afterPath="$PROJECT_DIR$/examples/sendmailAttachments.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +47,8 @@
       <file leaf-file-name="sendmailAttachments.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/sendmailAttachments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+            <state relative-caret-position="1122">
+              <caret line="86" column="42" lean-forward="false" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -56,9 +57,11 @@
       <file leaf-file-name="attachment.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/attachment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="e#6#91#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,12 +84,13 @@
         <option value="$PROJECT_DIR$/example.php" />
         <option value="$PROJECT_DIR$/class/SMTPMailer.php" />
         <option value="$PROJECT_DIR$/conf/config_smtp.php" />
-        <option value="$PROJECT_DIR$/examples/sendmailAttachments.php" />
         <option value="$PROJECT_DIR$/examples/sendmail.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Send Email with Attachment in PHP.md" />
         <option value="$PROJECT_DIR$/one.md" />
         <option value="$PROJECT_DIR$/examples/attachment.php" />
+        <option value="$PROJECT_DIR$/examples/sendmailAttachments.php" />
+        <option value="$PROJECT_DIR$/sending email with attachment.md" />
       </list>
     </option>
   </component>
@@ -127,11 +131,6 @@
             <path>
               <item name="PHP-SMTP-Mailer" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP-SMTP-Mailer" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PHP-SMTP-Mailer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP-SMTP-Mailer" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="examples" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -174,12 +173,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559992126778</updated>
       <workItem from="1559992132645" duration="5789000" />
-      <workItem from="1560051515981" duration="3106000" />
+      <workItem from="1560051515981" duration="4023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8895000" />
+    <option name="totallyTimeSpent" value="9812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,17 +326,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/sendmailAttachments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+        <state relative-caret-position="1122">
+          <caret line="86" column="42" lean-forward="false" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sending email with attachment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1887">
+            <caret line="111" column="2" lean-forward="false" selection-start-line="111" selection-start-column="2" selection-end-line="111" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/attachment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="170">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
