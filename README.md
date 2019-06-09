@@ -1,4 +1,3 @@
-
 ### Usage
 1. Begin with running **setup_config.php**<br>
 This will store your server connection settings.
@@ -25,14 +24,8 @@ else               echo 'Mail failure';
 
 ?>
 ```
-
 $cfg_server   = 'smtp.qq.com';
-
 $cfg_port     =  465;
-
 $cfg_secure   = 'ssl';
-
 $cfg_username = 'kevinobamatheus@gmail.com';
-
 $cfg_password = '';
-
