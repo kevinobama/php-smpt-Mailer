@@ -11,17 +11,14 @@
 
 // // Send
 // $success = mail('495702491@qq.com', 'kevin', $message);
-
-$message = "test";
-
+$title = $message = "test";
 
 // Send
-//$success = mail('kzhou22@apple.com', 'test', $message);
-//$success = mail('495702491@qq.com', 'kevin gates', $message);
- $success = mail('picture6542002@yahoo.com', 'kevin gates', $message);
-//$success = mail('kzhou22@apple.com', 'kevin gates', $message);
-// $success = mail('zhou224466@hotmail.com', 'kevin gates', $message);
-// $success = mail('kevinobamatheus@gmail.com', 'kevin gates', $message);
+
+
+$headers = 'Cc: 495702491@qq.com' . "\r\n";
+
+$success = mail('495702491@qq.com', $title, $message, $headers);
 
 if (!$success) {
     $errorMessage = error_get_last()['message'];
